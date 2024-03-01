@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Indomie Goreng Rendang",
+            "desc": "Masakan instan terenak di dunia",
+            "stock": 10,
+            "price": 3900
+        },
+        {
+            "id": 2,
+            "name": "Mie Gelas Rendang",
+            "desc": "Mie instan khusus anak kosan",
+            "stock": 3,
+            "price": 1500
+        },
+        {
+            "id": 3,
+            "name": "Bakmi Mewah",
+            "desc": "Kalau anak kos jangan macam2 deh",
+            "stock": 80,
+            "price": 10000
+        }
+    ]
+}
